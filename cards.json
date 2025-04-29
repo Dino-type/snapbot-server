@@ -1,0 +1,2375 @@
+{
+  "어보미네이션": {
+    "effect_ko": "\"멍청한 놈들! 나한테는 안되지!\"",
+    "cost": 5,
+    "power": 9,
+    "series": 1,
+    "slug": "Abomination"
+  },
+  "업소빙맨": {
+    "effect_ko": "출현: 내가 마지막으로 낸 카드가 출현 능력을 갖고 있다면, 그 카드의 텍스트를 복사합니다. (가능한 경우)",
+    "cost": 4,
+    "power": 4,
+    "series": 3,
+    "slug": "AbsorbingMan"
+  },
+  "아담워록": {
+    "effect_ko": "턴 종료: 내가 이곳에서 이기고 있다면 카드를 한 장 뽑습니다. 그렇지 않다면 +1 파워를 부여합니다.",
+    "cost": 2,
+    "power": 0,
+    "series": 3,
+    "slug": "AdamWarlock"
+  },
+  "에어로": {
+    "effect_ko": "출현: 상대 구역 어디에 있든, 상대의 마지막 카드를 이 구역으로 이동합니다.",
+    "cost": 5,
+    "power": 9,
+    "series": 3,
+    "slug": "Aero"
+  },
+  "아가모토": {
+    "effect_ko": "게임 시작: 고대 아르카나 4장을 내 덱에 섞어 넣습니다.",
+    "cost": 5,
+    "power": 10,
+    "series": 5,
+    "slug": "Agamotto"
+  },
+  "애거사하크니스": {
+    "effect_ko": "게임 시작: 애거사를 뽑습니다. 애거사는 짝수 턴에 내 카드를 제어합니다.",
+    "cost": 6,
+    "power": 14,
+    "series": 3,
+    "slug": "AgathaHarkness"
+  },
+  "에이전트13": {
+    "effect_ko": "출현: 임의의 카드 한 장을 내 손에 추가합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 2,
+    "slug": "Agent13"
+  },
+  "에이전트콜슨": {
+    "effect_ko": "출현: 내 손에 기본 비용이 4 및 5인 임의의 카드 한 장을 추가합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 3,
+    "slug": "AgentCoulson"
+  },
+  "에이전트베놈": {
+    "effect_ko": "출현: 내 덱에 있는 카드의 파워를 3(으)로 설정합니다.",
+    "cost": 2,
+    "power": 5,
+    "series": 5,
+    "slug": "AgentVenom"
+  },
+  "애고니": {
+    "effect_ko": "이곳에 카드를 내면 이 카드를 해당 카드에 합체시킵니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 4,
+    "slug": "Agony"
+  },
+  "에이잭스": {
+    "effect_ko": "지속: 임의의 구역에 공개된 카드 중 파워 감소가 부여된 카드 한 장당 +1 파워를 부여합니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 5,
+    "slug": "Ajax"
+  },
+  "알리오스": {
+    "effect_ko": "출현: 이곳의 공개되지 않은 모든 상대 캐릭터의 텍스트를 제거합니다.",
+    "cost": 6,
+    "power": 9,
+    "series": 5,
+    "slug": "Alioth"
+  },
+  "아메리카차베즈": {
+    "effect_ko": "출현: 내 덱의 가장 위쪽에 있는 카드에 +2 파워를 부여합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "AmericaChavez"
+  },
+  "엔젤": {
+    "effect_ko": "내 카드 중 한 장이 파괴되면, 이 카드가 내 손 또는 덱에서 날아와 파괴된 카드를 대체합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Angel"
+  },
+  "안젤라": {
+    "effect_ko": "이곳에 카드 한 장을 낼 때마다 +1 파워를 부여합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Angela"
+  },
+  "어나일러스": {
+    "effect_ko": "출현: 내 카드 중 파워가 0 미만인 카드가 진영을 변경합니다. 파워가 해당 기준치 이하이지만 진영을 변경하지 못하는 카드들은 파괴합니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 4,
+    "slug": "Annihilus"
+  },
+  "앤트맨": {
+    "effect_ko": "지속: 이 구역에서 내 진영이 가득 차 있으면 +4 파워를 부여합니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 1,
+    "slug": "AntMan"
+  },
+  "안티베놈": {
+    "effect_ko": "출현: 덱에서 가장 위쪽에 있는 카드의 비용과 파워를 0(으)로 설정합니다.",
+    "cost": 4,
+    "power": 7,
+    "series": 5,
+    "slug": "AntiVenom"
+  },
+  "아포칼립스": {
+    "effect_ko": "이 카드를 버리면 +4 파워를 부여해 돌려받습니다.",
+    "cost": 6,
+    "power": 8,
+    "series": 1,
+    "slug": "Apocalypse"
+  },
+  "아라냐": {
+    "effect_ko": "활성화: 내가 다음 카드를 낸 후, 그 카드에 +1 파워를 부여하고 현재 위치에서 오른쪽으로 이동시킵니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 5,
+    "slug": "Arana"
+  },
+  "아레스": {
+    "effect_ko": "출현: 양측 플레이어 덱의 가장 위쪽에 있는 카드 3장의 파워를 비교합니다. 내 카드들의 파워 총합이 더 크다면 아레스에게 +6 파워를 부여합니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 5,
+    "slug": "Ares"
+  },
+  "아리솀": {
+    "effect_ko": "게임 시작: 내 덱에 새로운 카드 12장을 섞어 넣습니다. 3턴에 +1 최대 에너지를 얻습니다.",
+    "cost": 7,
+    "power": 7,
+    "series": 5,
+    "slug": "Arishem"
+  },
+  "아머": {
+    "effect_ko": "지속: 이곳에 있는 카드는 파괴되지 않습니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Armor"
+  },
+  "아르님졸라": {
+    "effect_ko": "출현: 이곳의 내 다른 카드 중 한 장을 파괴하고 그 카드를 복제해 내 나머지 구역에 모두 추가합니다.",
+    "cost": 6,
+    "power": 0,
+    "series": 3,
+    "slug": "ArnimZola"
+  },
+  "아투마": {
+    "effect_ko": "턴 종료: 이곳에 있는 내 카드 중 이 카드보다 파워가 낮은 무작위 내 카드 한 장을 파괴합니다.",
+    "cost": 4,
+    "power": 10,
+    "series": 3,
+    "slug": "Attuma"
+  },
+  "모르도남작": {
+    "effect_ko": "출현: 6턴 전까지 상대의 덱에서 가장 위쪽에 있는 카드의 비용이 6(으)로 변경됩니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 3,
+    "slug": "BaronMordo"
+  },
+  "제모남작": {
+    "effect_ko": "출현: 상대의 덱에서 비용이 가장 낮은 카드를 이 구역의 내 진영에 추가합니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 5,
+    "slug": "BaronZemo"
+  },
+  "바스트": {
+    "effect_ko": "출현: 내 손에 있는 모든 카드의 파워를 3(으)로 설정합니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 3,
+    "slug": "Bast"
+  },
+  "비스트": {
+    "effect_ko": "출현: 이곳에 배치된 내 다른 카드들을 내 손으로 회수합니다. 해당 카드들은 모두 다음 턴에 비용이 1 감소합니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 3,
+    "slug": "Beast"
+  },
+  "베타레이빌": {
+    "effect_ko": "출현: 내 덱에 스톰브레이커 한 장을 섞어 넣습니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 4,
+    "slug": "BetaRayBill"
+  },
+  "비숍": {
+    "effect_ko": "카드 한 장을 낼 때마다 이 카드는 +1 파워를 획득합니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 1,
+    "slug": "Bishop"
+  },
+  "블랙볼트": {
+    "effect_ko": "출현: 상대의 손에서 현재 비용이 가장 낮은 카드를 버립니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 3,
+    "slug": "BlackBolt"
+  },
+  "블랙캣": {
+    "effect_ko": "턴 종료: 이 카드를 내 손에서 버립니다.",
+    "cost": 2,
+    "power": 6,
+    "series": 3,
+    "slug": "BlackCat"
+  },
+  "블랙나이트": {
+    "effect_ko": "내가 카드 한 장을 버리면, 버린 카드와 같은 파워를 지닌 에보니 블레이드 카드를 내 손에 추가합니다. (게임당 한 번)",
+    "cost": 1,
+    "power": 2,
+    "series": 4,
+    "slug": "BlackKnight"
+  },
+  "블랜팬서": {
+    "effect_ko": "출현: 이 카드의 파워가 두 배로 증가합니다.",
+    "cost": 5,
+    "power": 5,
+    "series": 3,
+    "slug": "BlackPanther"
+  },
+  "블랙스완": {
+    "effect_ko": "활성화: 다음 턴이 끝날 때까지 기본 비용이 1인 내 카드의 비용이 0이(가) 됩니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "BlackSwan"
+  },
+  "블랙위도우": {
+    "effect_ko": "활성화: 위도우즈 바이트 한 장을 상대의 손에 추가합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "BlackWidow"
+  },
+  "블레이드": {
+    "effect_ko": "출현: 내 손에서 가장 오른쪽에 있는 카드를 버립니다.",
+    "cost": 1,
+    "power": 3,
+    "series": 1,
+    "slug": "Blade"
+  },
+  "블링크": {
+    "effect_ko": "출현: 마지막으로 낸 카드를 내 덱에 있는 비용이 더 높은 카드로 바꿉니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 5,
+    "slug": "Blink"
+  },
+  "블롭": {
+    "effect_ko": "출현: 13 이상의 파워를 획득할 때까지 내 덱의 카드를 이 카드에 합칩니다.",
+    "cost": 6,
+    "power": 0,
+    "series": 5,
+    "slug": "Blob"
+  },
+  "블루마블": {
+    "effect_ko": "지속: 내 다른 모든 카드에 +1 파워를 부여합니다.",
+    "cost": 5,
+    "power": 3,
+    "series": 1,
+    "slug": "BlueMarvel"
+  },
+  "브루드": {
+    "effect_ko": "출현: 동일한 파워를 가진 브루드링 2장을 이곳에 추가합니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 3,
+    "slug": "Brood"
+  },
+  "브루스배너": {
+    "effect_ko": "턴 종료: 나에게 미사용 에너지가 있으면, 33% 확률로 헐크로 변신합니다!",
+    "cost": 2,
+    "power": 1,
+    "series": 5,
+    "slug": "BruceBanner"
+  },
+  "버키반스": {
+    "effect_ko": "이 카드가 파괴되면 윈터 솔저로 교체합니다.",
+    "cost": 2,
+    "power": 1,
+    "series": 2,
+    "slug": "BuckyBarnes"
+  },
+  "불스아이": {
+    "effect_ko": "활성화: 내 손에서 현재 비용이 1 이하인 카드를 모두 버립니다. 버린 카드 수만큼 서로 다른 상대 카드에 -2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 5,
+    "slug": "Bullseye"
+  },
+  "케이블": {
+    "effect_ko": "출현: 상대의 덱에서 카드 한 장을 뽑습니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Cable"
+  },
+  "케이에라": {
+    "effect_ko": "지속: 기본 비용이 1 및 6인 내 카드들이 파괴되지 않습니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 5,
+    "slug": "Caiera"
+  },
+  "캐논볼": {
+    "effect_ko": "출현: 이곳의 파워가 가장 높은 상대 카드를 다른 구역으로 이동시킵니다. 이동시킬 수 없다면 파괴하고 바위 카드로 대체합니다.",
+    "cost": 5,
+    "power": 8,
+    "series": 4,
+    "slug": "Cannonball"
+  },
+  "캡틴아메리카": {
+    "effect_ko": "지속: 이곳의 내 다른 모든 지속 카드에 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 1,
+    "slug": "CaptainAmerica"
+  },
+  "캡틴카터": {
+    "effect_ko": "지속: 이 카드의 파워를 이곳 후열에 있는 내 카드들에 부여합니다. (자신에게는 부여 불가)",
+    "cost": 3,
+    "power": 2,
+    "series": 5,
+    "slug": "CaptainCarter"
+  },
+  "캡틴마블": {
+    "effect_ko": "게임이 끝날 때 게임을 이길 수 있는 구역으로 이동합니다. (가능할 경우)",
+    "cost": 4,
+    "power": 5,
+    "series": 3,
+    "slug": "CaptainMarvel"
+  },
+  "카니지": {
+    "effect_ko": "출현: 이곳에 배치된 내 다른 카드들을 파괴합니다. 파괴된 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 1,
+    "slug": "Carnage"
+  },
+  "카산드라노바": {
+    "effect_ko": "출현: 상대의 덱에 있는 각 카드에서 1 파워를 훔칩니다.",
+    "cost": 3,
+    "power": 0,
+    "series": 5,
+    "slug": "CassandraNova"
+  },
+  "세레브로": {
+    "effect_ko": "지속: 파워가 가장 높은 내 카드들에 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 0,
+    "series": 3,
+    "slug": "Cerebro"
+  },
+  "클록": {
+    "effect_ko": "출현: 다음 턴에 양측 플레이어 모두 이 구역으로 카드들을 이동할 수 있습니다.",
+    "cost": 2,
+    "power": 4,
+    "series": 2,
+    "slug": "Cloak"
+  },
+  "콜린윙": {
+    "effect_ko": "출현: 내 손에서 현재 비용이 가장 낮은 카드를 버립니다.",
+    "cost": 2,
+    "power": 4,
+    "series": 3,
+    "slug": "ColleenWing"
+  },
+  "콜로서스": {
+    "effect_ko": "지속: 파괴, 이동, 파워 감소가 불가능합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Colossus"
+  },
+  "카피캣": {
+    "effect_ko": "이 카드를 뽑으면, 상대의 덱 가장 밑에 있는 카드의 텍스트를 복사합니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 5,
+    "slug": "Copycat"
+  },
+  "코르버스글레이브": {
+    "effect_ko": "출현: 내 손에서 카드 2장을 버리고 +1의 최대 에너지를 획득합니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 4,
+    "slug": "CorvusGlaive"
+  },
+  "코스모": {
+    "effect_ko": "지속: 앞으로 이곳에서 출현 능력이 발동하지 않습니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 1,
+    "slug": "Cosmo"
+  },
+  "크로스본즈": {
+    "effect_ko": "이 카드는 내가 앞서고 있는 구역에만 낼 수 있습니다.",
+    "cost": 4,
+    "power": 10,
+    "series": 3,
+    "slug": "Crossbones"
+  },
+  "크리스탈": {
+    "effect_ko": "출현: 각 플레이어는 카드 한 장을 뽑습니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 3,
+    "slug": "Crystal"
+  },
+  "컬옵시디언": {
+    "effect_ko": "이 카드는 기본 비용이 1인 내 카드가 있는 구역에만 낼 수 있습니다.",
+    "cost": 4,
+    "power": 10,
+    "series": 4,
+    "slug": "CullObsidian"
+  },
+  "사이클롭스": {
+    "effect_ko": "\"가자, 엑스맨.\"",
+    "cost": 3,
+    "power": 4,
+    "series": 1,
+    "slug": "Cyclops"
+  },
+  "대거": {
+    "effect_ko": "이 카드가 임의의 구역으로 이동하면, 그 구역에 있는 상대 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "Dagger"
+  },
+  "다켄": {
+    "effect_ko": "출현: 무라마사 조각 카드를 내 손에 추가합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 4,
+    "slug": "Daken"
+  },
+  "데어데블": {
+    "effect_ko": "5턴에 내 카드를 내기에 앞서 상대가 내는 카드를 먼저 볼 수 있습니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 3,
+    "slug": "Daredevil"
+  },
+  "다크호크": {
+    "effect_ko": "지속: 상대의 덱에 든 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 5,
+    "power": 3,
+    "series": 4,
+    "slug": "Darkhawk"
+  },
+  "대즐러": {
+    "effect_ko": "지속: 내 진영에서 가득 찬 구역 하나당 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "Dazzler"
+  },
+  "데드풀": {
+    "effect_ko": "이 카드는 파괴되면, 파워가 두 배가 되어 내 손으로 돌아옵니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 3,
+    "slug": "Deadpool"
+  },
+  "데스": {
+    "effect_ko": "이번 게임에서 카드가 한 장 파괴될 때마다 이 카드의 비용이 1 감소합니다.",
+    "cost": 8,
+    "power": 12,
+    "series": 3,
+    "slug": "Death"
+  },
+  "데스록": {
+    "effect_ko": "출현: 이곳의 내 다른 카드를 모두 파괴합니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 1,
+    "slug": "Deathlok"
+  },
+  "데브리": {
+    "effect_ko": "출현: 이 카드가 배치된 구역 외 나머지 두 구역의 양쪽 진영에 바위 카드를 한 장 추가합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "Debrii"
+  },
+  "디스트로이어": {
+    "effect_ko": "출현: 나머지 구역에 있는 내 카드를 파괴합니다.",
+    "cost": 6,
+    "power": 16,
+    "series": 3,
+    "slug": "Destroyer"
+  },
+  "데빌다이노소어": {
+    "effect_ko": "지속: 내 손에 있는 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 5,
+    "power": 4,
+    "series": 1,
+    "slug": "DevilDinosaur"
+  },
+  "다이아몬드백": {
+    "effect_ko": "지속: 이곳에 있는 파워 감소가 부여된 상대 카드에 추가로 -2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 5,
+    "slug": "Diamondback"
+  },
+  "닥터둠": {
+    "effect_ko": "출현: 내 다른 두 구역에 파워 5의 둠봇을 한 장씩 추가합니다.",
+    "cost": 6,
+    "power": 5,
+    "series": 3,
+    "slug": "DrDoom"
+  },
+  "닥터둠2099": {
+    "effect_ko": "턴 종료: 내가 정확히 카드 1장을 냈다면 무작위 구역에 둠봇 2099 한 장을 추가합니다.",
+    "cost": 4,
+    "power": 3,
+    "series": 5,
+    "slug": "Doom2099"
+  },
+  "닥터옥토퍼스": {
+    "effect_ko": "출현: 상대의 손에서 파워가 가장 낮은 카드를 뽑아 이 구역의 상대 진영에 배치합니다.",
+    "cost": 4,
+    "power": 8,
+    "series": 3,
+    "slug": "DoctorOctopus"
+  },
+  "닥터스트레인지": {
+    "effect_ko": "출현: 파워가 가장 높은 내 카드들을 이 구역으로 이동합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "DoctorStrange"
+  },
+  "도미노": {
+    "effect_ko": "2턴에 반드시 이 카드를 뽑습니다. 그전에는 뽑을 수 없습니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Domino"
+  },
+  "드라큘라": {
+    "effect_ko": "게임이 끝날 때 내 손에서 임의의 카드 한 장을 버리고 그 카드의 파워를 얻습니다.",
+    "cost": 4,
+    "power": 1,
+    "series": 3,
+    "slug": "Dracula"
+  },
+  "드랙스": {
+    "effect_ko": "출현: 이번 턴에 상대가 이곳에 카드를 냈을 경우, 이 카드에 +4 파워를 부여합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 3,
+    "slug": "Drax"
+  },
+  "에보니모": {
+    "effect_ko": "3턴 후에는 이 카드를 낼 수 없습니다. 지속: 나는 앞으로 이곳에 카드를 낼 수 없습니다.",
+    "cost": 1,
+    "power": 7,
+    "series": 2,
+    "slug": "EbonyMaw"
+  },
+  "에코": {
+    "effect_ko": "상대가 이곳에 지속 카드를 낼 때마다 해당 카드의 모든 능력이 제거됩니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "Echo"
+  },
+  "일렉트로": {
+    "effect_ko": "출현: 최대 에너지가 + 1 됩니다. 지속: 나는 한 턴에 카드를 1장만 낼 수 있습니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "Electro"
+  },
+  "엘렉트라": {
+    "effect_ko": "출현: 이곳의 기본 비용이 1인 임의의 상대 카드 한 장을 파괴합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "Elektra"
+  },
+  "엘사블러드스톤": {
+    "effect_ko": "카드 한 장을 내어 내 구역을 가득 채울 경우, 그 카드에 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 4,
+    "slug": "ElsaBloodstone"
+  },
+  "헐클링황제": {
+    "effect_ko": "게임 시작: 기본 비용이 6인 무작위 카드 1장의 텍스트를 복사합니다.",
+    "cost": 6,
+    "power": 12,
+    "series": 5,
+    "slug": "Hulkling"
+  },
+  "인챈트리스": {
+    "effect_ko": "출현: 이곳에 있는 모든 지속 카드의 능력이 제거됩니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 1,
+    "slug": "Enchantress"
+  },
+  "에손": {
+    "effect_ko": "턴 종료: 내 손에서 생성된 카드 한 장을 이곳에 놓습니다.",
+    "cost": 6,
+    "power": 10,
+    "series": 5,
+    "slug": "Eson"
+  },
+  "팔콘": {
+    "effect_ko": "출현: 기본 비용이 1인 내 카드들을 회수합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 3,
+    "slug": "Falcon"
+  },
+  "펜리스울프": {
+    "effect_ko": "활성화: 버려졌거나 파괴된 상대 카드 중 파워가 가장 높은 카드를 이 구역의 내 진영에 부활시킵니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "FenrisWolf"
+  },
+  "파이어헤어": {
+    "effect_ko": "내 카드 중 한 장이 파괴되면, 이 카드가 그 파괴된 카드의 출현 능력을 사용합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "Firehair"
+  },
+  "포지": {
+    "effect_ko": "출현: 내가 다음 번에 내는 카드에 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 1,
+    "slug": "Forge"
+  },
+  "프리가": {
+    "effect_ko": "출현: 내가 마지막으로 낸 카드의 복사본을 내 손에 추가합니다. (가능한 경우)",
+    "cost": 3,
+    "power": 4,
+    "series": 5,
+    "slug": "Frigga"
+  },
+  "갤럭타": {
+    "effect_ko": "매 턴 내가 다른 구역에 처음으로 내는 카드가 +3 파워를 부여받은 상태로 공개됩니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 5,
+    "slug": "Galacta"
+  },
+  "갤럭투스": {
+    "effect_ko": "출현: 이 구역에서 내가 이기고 있고 내 진영에 이 카드만 배치되어 있을 경우, 나머지 구역을 모두 파괴합니다.",
+    "cost": 6,
+    "power": 6,
+    "series": 5,
+    "slug": "Galactus"
+  },
+  "갬빗": {
+    "effect_ko": "출현: 내 손에서 카드 한 장을 버리고 상대 카드를 무작위로 한 장 파괴합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "Gambit"
+  },
+  "가모라": {
+    "effect_ko": "출현: 이번 턴에 상대가 이곳에 카드를 냈을 경우, 이 카드에 +4 파워를 부여합니다.",
+    "cost": 5,
+    "power": 8,
+    "series": 1,
+    "slug": "Gamora"
+  },
+  "고스트": {
+    "effect_ko": "지속: 내 카드들이 항상 마지막에 공개됩니다. (카드들의 출현 능력이 마지막에 발생합니다.)",
+    "cost": 3,
+    "power": 5,
+    "series": 3,
+    "slug": "Ghost"
+  },
+  "고스트라이더": {
+    "effect_ko": "출현: 내가 버린 카드 중 한 장을 이 구역으로 다시 가져옵니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 3,
+    "slug": "GhostRider"
+  },
+  "고스트스파이더": {
+    "effect_ko": "출현: 내가 마지막으로 낸 카드를 이곳으로 이동합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "GhostSpider"
+  },
+  "기간토": {
+    "effect_ko": "이 카드는 왼쪽 구역에만 낼 수 있습니다.",
+    "cost": 6,
+    "power": 14,
+    "series": 3,
+    "slug": "Giganto"
+  },
+  "길가메시": {
+    "effect_ko": "출현: 임의의 구역에 공개되어 있는 파워가 증가한 내 다른 카드 한 장당 +1 파워를 얻습니다.",
+    "cost": 5,
+    "power": 9,
+    "series": 5,
+    "slug": "Gilgamesh"
+  },
+  "글래디에이터": {
+    "effect_ko": "출현: 상대의 덱에서 카드 한 장을 뽑아 이 구역의 상대 진영에 추가합니다. 상대 카드의 파워가 이 카드의 파워보다 낮으면 해당 카드를 파괴합니다.",
+    "cost": 3,
+    "power": 8,
+    "series": 4,
+    "slug": "Gladiator"
+  },
+  "골리앗": {
+    "effect_ko": "지속: 임의의 구역에 공개된 내 다른 지속 카드 한 장당 +1 파워를 부여합니다.",
+    "cost": 2,
+    "power": 1,
+    "series": 5,
+    "slug": "Goliath"
+  },
+  "구스": {
+    "effect_ko": "지속: 누구도 이곳에 현재 비용이 4, 5, 6인 카드를 낼 수 없습니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "Goose"
+  },
+  "고르곤": {
+    "effect_ko": "지속: 상대의 생성된 카드들의 비용이 1 증가합니다. (최대 6)",
+    "cost": 2,
+    "power": 3,
+    "series": 4,
+    "slug": "Gorgon"
+  },
+  "신도살자고르": {
+    "effect_ko": "지속: 임의의 구역에 공개된 각 출현 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 6,
+    "power": -1,
+    "series": 5,
+    "slug": "Gorr"
+  },
+  "그랜드마스터": {
+    "effect_ko": "출현: 이곳에 있는 내 다른 출현 카드 한 장을 중앙 구역으로 이동시킵니다. 그 카드의 능력이 다시 발동합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 4,
+    "slug": "GrandMaster"
+  },
+  "그린고블린": {
+    "effect_ko": "출현: 진영을 변경합니다.",
+    "cost": 3,
+    "power": -3,
+    "series": 3,
+    "slug": "GreenGoblin"
+  },
+  "그루트": {
+    "effect_ko": "출현: 이번 턴에 상대가 이곳에 카드를 냈을 경우, 이 카드에 +4 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 1,
+    "slug": "Groot"
+  },
+  "그웬풀": {
+    "effect_ko": "출현: 내 손에 있는 무작위 캐릭터를 3번 선택합니다. 선택할 때마다 +2 파워를 부여합니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 5,
+    "slug": "Gwenpool"
+  },
+  "하복": {
+    "effect_ko": "턴 종료: 1의 최대 에너지를 잃고 이 카드는 +4 파워를 얻습니다.",
+    "cost": 2,
+    "power": 0,
+    "series": 3,
+    "slug": "Havok"
+  },
+  "호크아이": {
+    "effect_ko": "출현: 다음 턴에 내가 이 구역에 카드를 낼 경우, +3 파워를 부여합니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 1,
+    "slug": "Hawkeye"
+  },
+  "호크아이케이트비숍": {
+    "effect_ko": "출현: 화살 2장을 내 손에 추가합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "KateBishop"
+  },
+  "해즈맷": {
+    "effect_ko": "출현: 다른 모든 카드에 -1 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "Hazmat"
+  },
+  "헤임달": {
+    "effect_ko": "출현: 내 다른 모든 카드를 왼쪽으로 한 구역씩 이동합니다.",
+    "cost": 6,
+    "power": 10,
+    "series": 1,
+    "slug": "Heimdall"
+  },
+  "헬라": {
+    "effect_ko": "출현: 기본 비용이 서로 다른 내가 버린 카드 한 장당 무작위 구역에 버린 카드를 부활시킵니다.",
+    "cost": 6,
+    "power": 6,
+    "series": 3,
+    "slug": "Hela"
+  },
+  "헬리캐리어": {
+    "effect_ko": "이 카드를 버리면 내 손을 무작위 카드로 채웁니다.",
+    "cost": 6,
+    "power": 10,
+    "series": 3,
+    "slug": "Helicarrier"
+  },
+  "헬카우": {
+    "effect_ko": "활성화: 내 손에서 카드 한 장을 버립니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 3,
+    "slug": "Hellcow"
+  },
+  "헤라클레스": {
+    "effect_ko": "매 턴 다른 카드가 처음 이곳으로 이동해 오면, 다른 구역 중 한 곳으로 이동시킵니다. (턴당 1장만 가능)",
+    "cost": 3,
+    "power": 5,
+    "series": 3,
+    "slug": "Hercules"
+  },
+  "하이에볼루셔너리": {
+    "effect_ko": "게임 시작: 능력이 없는 내 카드들의 잠재 능력들을 잠금 해제합니다.",
+    "cost": 4,
+    "power": 7,
+    "series": 5,
+    "slug": "HighEvolutionary"
+  },
+  "히트멍키": {
+    "effect_ko": "출현: 이번 턴에 내가 낸 다른 카드 한 장당 이 카드에 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 4,
+    "slug": "HitMonkey"
+  },
+  "홉고블린": {
+    "effect_ko": "출현: 진영을 변경합니다.",
+    "cost": 5,
+    "power": -8,
+    "series": 2,
+    "slug": "Hobgoblin"
+  },
+  "호프서머스": {
+    "effect_ko": "이곳에 카드를 내면, 다음 턴에 +1 에너지를 획득합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 5,
+    "slug": "HopeSummers"
+  },
+  "하워드더덕": {
+    "effect_ko": "지속: 눌러서 내 덱의 가장 위쪽에 있는 카드를 봅니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "HowardTheDuck"
+  },
+  "헐크": {
+    "effect_ko": "\"헐크 스매시!\"",
+    "cost": 6,
+    "power": 12,
+    "series": 1,
+    "slug": "Hulk"
+  },
+  "헐크버스터": {
+    "effect_ko": "출현: 이 카드가 이곳의 내 카드 중 한 장과 합체합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Hulkbuster"
+  },
+  "휴먼토치": {
+    "effect_ko": "이 카드는 이동하면 파워가 두 배로 증가합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "HumanTorch"
+  },
+  "하이드라밥": {
+    "effect_ko": "턴 종료: 플레이어가 Snap했다면 이동합니다.",
+    "cost": 1,
+    "power": 4,
+    "series": 5,
+    "slug": "HydraBob"
+  },
+  "아이스맨": {
+    "effect_ko": "출현: 상대의 손에 있는 임의의 카드 한 장의 비용이 +1 됩니다. (최대 6)",
+    "cost": 1,
+    "power": 2,
+    "series": 2,
+    "slug": "Iceman"
+  },
+  "인피니티울트론": {
+    "effect_ko": "출현: 울트론의 스톤 2장을 내 손에 추가합니다.",
+    "cost": 5,
+    "power": 8,
+    "series": 5,
+    "slug": "InfinityUltron"
+  },
+  "인비저블우먼": {
+    "effect_ko": "지속: 내가 이곳에 낸 카드들은 게임이 끝날 때까지 공개되지 않습니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 3,
+    "slug": "InvisibleWoman"
+  },
+  "아이언피스트": {
+    "effect_ko": "출현: 이 카드를 낸 후, 다음에 내는 내 카드가 왼쪽으로 이동합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "IronFist"
+  },
+  "아이언래드": {
+    "effect_ko": "출현: 덱에서 가장 위쪽에 있는 카드 텍스트를 복사합니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 4,
+    "slug": "IronLad"
+  },
+  "아이언맨": {
+    "effect_ko": "지속: 이곳의 내 전체 파워가 두 배로 증가합니다.",
+    "cost": 5,
+    "power": 0,
+    "series": 1,
+    "slug": "IronMan"
+  },
+  "아이언패트리어트": {
+    "effect_ko": "출현: 내 손에 기본 비용이 4, 5 또는 6인 카드 한 장을 무작위로 추가합니다. 다음 턴 이후에 이곳에서 이기고 있다면 그 카드의 비용이 -3 감소합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "IronPatriot"
+  },
+  "아이언하트": {
+    "effect_ko": "출현: 내 다른 카드 3장에 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 0,
+    "series": 1,
+    "slug": "Ironheart"
+  },
+  "제인포스터마이티토르": {
+    "effect_ko": "출현: 내 덱에서 현재 비용이 0인 카드를 모두 뽑습니다.",
+    "cost": 5,
+    "power": 9,
+    "series": 3,
+    "slug": "JaneFoster"
+  },
+  "진그레이": {
+    "effect_ko": "지속: 플레이어는 매 턴의 첫 카드를 반드시 이곳에 내야 합니다. (가능할 경우)",
+    "cost": 3,
+    "power": 4,
+    "series": 3,
+    "slug": "JeanGrey"
+  },
+  "아기땅상어제프": {
+    "effect_ko": "이 카드는 한 번 이동할 수 있으며, 이동하거나 배치할 때 어떤 효과도 이 카드를 막을 수 없습니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "JeffTheBabyLandShark"
+  },
+  "제시카존스": {
+    "effect_ko": "출현: 다음 턴에 내가 이 구역에 카드를 내지 않을 경우, +5 파워를 부여합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 1,
+    "slug": "JessicaJones"
+  },
+  "호아킨토레스팔콘II": {
+    "effect_ko": "지속: 이곳에 있는 내 기본 비용이 1인 카드의 출현 능력이 2번 발동합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 5,
+    "slug": "JoaquinTorres"
+  },
+  "주빌리": {
+    "effect_ko": "출현: 내 덱의 가장 위쪽에 있는 카드를 이 구역에 추가합니다.",
+    "cost": 4,
+    "power": 1,
+    "series": 2,
+    "slug": "Jubilee"
+  },
+  "저거노트": {
+    "effect_ko": "출현: 이번 턴에 상대가 이곳에 낸 상대의 모든 카드를 임의의 구역으로 이동합니다. (공개되지 않은 카드들 포함)",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "Juggernaut"
+  },
+  "카자르": {
+    "effect_ko": "지속: 기본 비용이 1인 내 카드들에 +1 파워를 부여합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 1,
+    "slug": "KaZar"
+  },
+  "카호리": {
+    "effect_ko": "출현: 내 손에 있는 카드 한 장당 임의의 구역에 공개된 내 카드 한 장에 +1 파워를 부여합니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 5,
+    "slug": "Kahhori"
+  },
+  "캉": {
+    "effect_ko": "출현: 상대의 플레이 확인 후, 턴을 다시 시작합니다. (이 카드 제외)",
+    "cost": 5,
+    "power": 0,
+    "series": 5,
+    "slug": "Kang"
+  },
+  "콘슈": {
+    "effect_ko": "이 카드는 버려지면 다음 단계가 되어 돌아옵니다. 출현: 내가 버린 카드 한 장의 파워를 5(으)로 설정하여 다른 구역에 부활시킵니다.",
+    "cost": 6,
+    "power": 5,
+    "series": 5,
+    "slug": "Khonshu"
+  },
+  "킬몽거": {
+    "effect_ko": "출현: 기본 비용이 1인 카드를 모두 파괴합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 2,
+    "slug": "Killmonger"
+  },
+  "에이트리왕": {
+    "effect_ko": "활성화: 내 덱에서 생성된 카드를 한 장 뽑습니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 4,
+    "slug": "KingEitri"
+  },
+  "킹핀": {
+    "effect_ko": "상대 카드가 이곳으로 이동해 오면 그 카드에 -2 파워를 부여합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "Kingpin"
+  },
+  "키티프라이드": {
+    "effect_ko": "이 카드가 내 손으로 돌아올 때마다, +1 파워를 부여합니다. 매 턴이 시작될 때 손으로 돌아옵니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 3,
+    "slug": "KittyPryde"
+  },
+  "클로": {
+    "effect_ko": "지속: 이 카드의 오른쪽 구역에 +7 파워를 부여합니다.",
+    "cost": 5,
+    "power": 4,
+    "series": 1,
+    "slug": "Klaw"
+  },
+  "널": {
+    "effect_ko": "지속: 이 카드의 파워는 이번 게임에서 파괴된 모든 카드 파워의 합에 해당됩니다.",
+    "cost": 6,
+    "power": 0,
+    "series": 3,
+    "slug": "Knull"
+  },
+  "코르그": {
+    "effect_ko": "출현: 상대의 덱에 바위 한 장을 섞어 넣습니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "Korg"
+  },
+  "크레이븐": {
+    "effect_ko": "임의의 카드가 이곳으로 이동해 오면, 이 카드는 +2 파워를 획득합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Kraven"
+  },
+  "레이디데스스트라이크": {
+    "effect_ko": "출현: 이곳의 양쪽 진영에서 파워가 3 이하인 카드를 파괴합니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 3,
+    "slug": "LadyDeathstrike"
+  },
+  "레이디시프": {
+    "effect_ko": "출현: 내 손에서 현재 비용이 가장 높은 카드를 버립니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 1,
+    "slug": "LadySif"
+  },
+  "래셔": {
+    "effect_ko": "활성화: 이곳에 배치된 상대 카드 한 장의 파워를 이 카드의 파워만큼 감소시킵니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 4,
+    "slug": "Lasher"
+  },
+  "라우페이": {
+    "effect_ko": "출현: 이곳에 있는 다른 카드들에게서 각 1 파워를 훔칩니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 4,
+    "slug": "Laufey"
+  },
+  "리더": {
+    "effect_ko": "출현: 상대방이 이번 턴에 낸 가장 높은 파워의 카드를 내 진영에 복제합니다.",
+    "cost": 6,
+    "power": 4,
+    "series": 3,
+    "slug": "Leader"
+  },
+  "리치": {
+    "effect_ko": "출현: 상대의 손에 있는 기본 비용이 6인 카드의 텍스트를 제거합니다.",
+    "cost": 4,
+    "power": 4,
+    "series": 2,
+    "slug": "Leech"
+  },
+  "리전": {
+    "effect_ko": "출현: 나머지 두 구역을 이 구역으로 바꿉니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 4,
+    "slug": "Legion"
+  },
+  "리저드": {
+    "effect_ko": "지속: 이곳에 상대의 카드가 4장 배치되어 있을 경우, 이 카드에 -4 파워를 부여합니다.",
+    "cost": 2,
+    "power": 6,
+    "series": 1,
+    "slug": "Lizard"
+  },
+  "록조": {
+    "effect_ko": "이곳에 카드 한 장을 내면, 해당 카드를 내 덱에 있는 카드 한 장과 교체합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 3,
+    "slug": "Lockjaw"
+  },
+  "로키": {
+    "effect_ko": "출현: 내 덱을 상대의 시작 덱으로 대체합니다. 대체된 카드들의 비용이 -1 감소합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 4,
+    "slug": "Loki"
+  },
+  "루크케이지": {
+    "effect_ko": "지속: 내 카드들의 파워가 감소하지 않습니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 3,
+    "slug": "LukeCage"
+  },
+  "루나스노우": {
+    "effect_ko": "출현: 이 구역의 각 진영에 아이스 큐브 한 장을 추가합니다.",
+    "cost": 3,
+    "power": 6,
+    "series": 5,
+    "slug": "LunaSnow"
+  },
+  "음바쿠": {
+    "effect_ko": "게임이 끝날 때, 덱에서 나와 내 파워가 가장 낮은 구역으로 배치됩니다. (가득 차지 않은 구역)",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "MBaku"
+  },
+  "모독": {
+    "effect_ko": "출현: 내 손에 있는 카드를 모두 버립니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 3,
+    "slug": "Modok"
+  },
+  "마담웹": {
+    "effect_ko": "지속: 매 턴 이곳의 내 다른 카드 한 장을 다른 구역으로 이동시킬 수 있습니다.",
+    "cost": 2,
+    "power": 1,
+    "series": 5,
+    "slug": "MadameWeb"
+  },
+  "매직": {
+    "effect_ko": "출현: 이 구역을 '림보'로 대체합니다. 5턴 후에는 효과가 발동하지 않습니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 3,
+    "slug": "Magik"
+  },
+  "매그니토": {
+    "effect_ko": "출현: 기본 비용이 3 및 4인 상대 카드를 모두 상대의 이 구역으로 이동합니다.",
+    "cost": 6,
+    "power": 12,
+    "series": 3,
+    "slug": "Magneto"
+  },
+  "마카리": {
+    "effect_ko": "턴 종료: 내 손에서 무작위 구역에 추가됩니다. (가능한 경우)",
+    "cost": 3,
+    "power": 4,
+    "series": 5,
+    "slug": "Makkari"
+  },
+  "말레키스": {
+    "effect_ko": "출현: 내 덱에서 기본 비용이 1, 2 또는 3인 카드 한 장을 이곳에 추가합니다. 추가된 카드는 게임이 끝날 때까지 공개되지 않습니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 5,
+    "slug": "Malekith"
+  },
+  "맨씽": {
+    "effect_ko": "지속: 이곳에 있는 기본 비용이 1, 2, 3인 카드들에 -2 파워를 부여합니다.",
+    "cost": 4,
+    "power": 7,
+    "series": 4,
+    "slug": "ManThing"
+  },
+  "맨티스": {
+    "effect_ko": "출현: 상대가 이번 턴에 이곳에 카드를 냈을 경우, 그중 한 장을 내 손에 복제합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "Mantis"
+  },
+  "마리아힐": {
+    "effect_ko": "출현: 내 손에 기본 비용이 2인 카드 한 장을 무작위로 추가합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "MariaHill"
+  },
+  "마터": {
+    "effect_ko": "게임이 끝날 때 게임을 패배할 수 있는 구역으로 이동합니다. (가능할 경우)",
+    "cost": 1,
+    "power": 5,
+    "series": 3,
+    "slug": "Martyr"
+  },
+  "마블보이": {
+    "effect_ko": "턴 종료: 기본 비용이 1인 내 카드 3장에 +1 파워를 부여합니다.",
+    "cost": 3,
+    "power": 1,
+    "series": 5,
+    "slug": "MarvelBoy"
+  },
+  "마스터몰드": {
+    "effect_ko": "출현: 상대의 손에 센티널을 2장 추가합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "MasterMold"
+  },
+  "막시무스": {
+    "effect_ko": "출현: 상대가 카드를 2장 뽑습니다.",
+    "cost": 2,
+    "power": 6,
+    "series": 3,
+    "slug": "Maximus"
+  },
+  "메두사": {
+    "effect_ko": "출현: 이 카드가 중앙 구역에 있을 경우, +3 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 1,
+    "slug": "Medusa"
+  },
+  "미에크": {
+    "effect_ko": "카드를 한 장 버릴 때마다 이 카드가 +1 파워를 획득하며 다음 턴에 이동이 가능해집니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 4,
+    "slug": "Miek"
+  },
+  "마일스모랄레스": {
+    "effect_ko": "지난 턴에 이동한 카드가 있을 경우, 이 카드의 비용이 1(으)로 됩니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 3,
+    "slug": "MilesMorales"
+  },
+  "미라지": {
+    "effect_ko": "출현: 상대의 손에 있는 현재 비용이 가장 낮은 카드를 내 손에 복제합니다. 복제한 카드에 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "Mirage"
+  },
+  "미저리": {
+    "effect_ko": "출현: 이곳에 있는 내 다른 카드들의 출현 능력을 반복한 후, 그 카드들을 파괴합니다.",
+    "cost": 4,
+    "power": 8,
+    "series": 5,
+    "slug": "Misery"
+  },
+  "미스터판타스틱": {
+    "effect_ko": "지속: 인접한 구역에 +3 파워를 부여합니다.",
+    "cost": 3,
+    "power": 1,
+    "series": 1,
+    "slug": "MrFantastic"
+  },
+  "미스터네거티브": {
+    "effect_ko": "출현: 내 덱에 있는 모든 카드의 파워와 비용을 맞바꿉니다.",
+    "cost": 4,
+    "power": -1,
+    "series": 3,
+    "slug": "MrNegative"
+  },
+  "미스터시니스터": {
+    "effect_ko": "출현: 동일한 파워를 가진 시니스터 클론 한 장을 이곳에 추가합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 1,
+    "slug": "MrSinister"
+  },
+  "미스티나이트": {
+    "effect_ko": "\"이 도시를 구해야만 해요.\"",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "MistyKnight"
+  },
+  "뫼비우스M.뫼비우스": {
+    "effect_ko": "지속: 내 카드의 비용이 증가하지 않으며, 상대 카드의 비용이 줄어들지 않습니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "MobiusMMobius"
+  },
+  "모킹버드": {
+    "effect_ko": "임의의 구역에 공개된 내 생성된 카드 한 장당 비용이 1 감소합니다.",
+    "cost": 6,
+    "power": 9,
+    "series": 5,
+    "slug": "Mockingbird"
+  },
+  "모조": {
+    "effect_ko": "지속: 이곳의 양쪽 구역이 가득 차 있으면, +6 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "Mojo"
+  },
+  "문걸": {
+    "effect_ko": "출현: 내 손의 카드를 복제합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 1,
+    "slug": "MoonGirl"
+  },
+  "문나이트": {
+    "effect_ko": "출현: 각 플레이어의 손에서 비용이 짝수인 카드 한 장을 버립니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "MoonKnight"
+  },
+  "문스톤": {
+    "effect_ko": "지속: 이곳에 있는 기본 비용이 1, 2, 3인 내 카드들의 지속 효과를 얻습니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 5,
+    "slug": "Moonstone"
+  },
+  "모비우스": {
+    "effect_ko": "지속: 이번 게임에서 내가 카드를 한 장 버릴 때마다 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 0,
+    "series": 2,
+    "slug": "Morbius"
+  },
+  "모프": {
+    "effect_ko": "출현: 상대의 손에 있는 카드로 복제됩니다.",
+    "cost": 3,
+    "power": 0,
+    "series": 1,
+    "slug": "Morph"
+  },
+  "미즈마블": {
+    "effect_ko": "지속: 내 카드가 2장 이상 있는 인접한 구역에서 해당 카드들의 기본 비용이 중복되지 않을 경우, 그 구역들에 +5 파워를 부여합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 4,
+    "slug": "MsMarvel"
+  },
+  "멀티플맨": {
+    "effect_ko": "이 카드는 이동할 때마다 기존 구역에 복사본 한 장을 추가합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "MultipleMan"
+  },
+  "미스테리오": {
+    "effect_ko": "이 카드를 내면 내 나머지 구역에 환상 카드를 냅니다. 이 카드는 게임이 끝날 때까지 환상으로 위장합니다.",
+    "cost": 2,
+    "power": 4,
+    "series": 3,
+    "slug": "Mysterio"
+  },
+  "미스틱": {
+    "effect_ko": "출현: 내가 마지막으로 낸 카드가 지속 능력을 갖고 있다면, 그 카드의 텍스트를 복사합니다. (가능한 경우)",
+    "cost": 3,
+    "power": 0,
+    "series": 3,
+    "slug": "Mystique"
+  },
+  "나키아": {
+    "effect_ko": "출현: 내 손에 있는 모든 카드에 +1 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 2,
+    "slug": "Nakia"
+  },
+  "네이머": {
+    "effect_ko": "지속: 이곳에 내 다른 카드가 없을 경우, +5 파워를 부여합니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 1,
+    "slug": "Namor"
+  },
+  "나모라": {
+    "effect_ko": "출현: 다른 구역에 혼자 있는 내 카드에 각각 +5 파워를 부여합니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 5,
+    "slug": "Namora"
+  },
+  "네뷸라": {
+    "effect_ko": "상대가 이곳에 카드를 내지 않을 때마다 +2 파워를 부여합니다. (단, 내가 이 카드를 내는 턴은 제외)",
+    "cost": 1,
+    "power": 1,
+    "series": 3,
+    "slug": "Nebula"
+  },
+  "네가소닉틴에이지워헤드": {
+    "effect_ko": "상대가 이곳에 카드를 내면, 그 카드 한 장을 파괴합니다. (게임당 한 번)",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "NegasonicTeenageWarhead"
+  },
+  "닉퓨리": {
+    "effect_ko": "출현: 내 손에 기본 비용이 6인 임의의 카드 3장을 추가합니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 3,
+    "slug": "NickFury"
+  },
+  "니코미노루": {
+    "effect_ko": "출현: 내가 다음 카드를 낸 후, 그 카드가 공개될 때 주문을 시전합니다. (내 손에 있는 동안 턴마다 주문 변화)",
+    "cost": 1,
+    "power": 2,
+    "series": 5,
+    "slug": "NicoMinoru"
+  },
+  "나이트크롤러": {
+    "effect_ko": "이 카드는 한 번 이동할 수 있습니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "Nightcrawler"
+  },
+  "님로드": {
+    "effect_ko": "이 카드가 파괴되면 나머지 두 구역에 복사본을 추가합니다.",
+    "cost": 5,
+    "power": 6,
+    "series": 3,
+    "slug": "Nimrod"
+  },
+  "녹턴": {
+    "effect_ko": "이 카드는 한 번 이동할 수 있습니다. 이동 시 이동한 구역을 무작위 신규 구역으로 대체합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 5,
+    "slug": "Nocturne"
+  },
+  "노바": {
+    "effect_ko": "이 카드가 파괴되면 내 모든 카드에 +1 파워를 부여합니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 1,
+    "slug": "Nova"
+  },
+  "오딘": {
+    "effect_ko": "출현: 이곳에 있는 내 다른 카드들의 출현 능력을 반복합니다.",
+    "cost": 5,
+    "power": 8,
+    "series": 1,
+    "slug": "Odin"
+  },
+  "오코예": {
+    "effect_ko": "출현: 내 덱에 있는 모든 카드에 +1 파워를 부여합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 2,
+    "slug": "Okoye"
+  },
+  "오메가레드": {
+    "effect_ko": "지속: 이곳에서 이기고 있다면 내 나머지 구역에 +3 파워를 부여합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 3,
+    "slug": "OmegaRed"
+  },
+  "온슬로트": {
+    "effect_ko": "지속: 이곳에 있는 내 다른 지속 카드들의 효과가 두 배로 증가합니다.",
+    "cost": 6,
+    "power": 8,
+    "series": 1,
+    "slug": "Onslaught"
+  },
+  "오르카": {
+    "effect_ko": "지속: 이곳에 내 다른 카드가 없을 경우, +5 파워를 부여합니다.",
+    "cost": 6,
+    "power": 11,
+    "series": 3,
+    "slug": "Orka"
+  },
+  "패트리어트": {
+    "effect_ko": "지속: 능력이 없는 내 카드들에 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 3,
+    "slug": "Patriot"
+  },
+  "페니파커": {
+    "effect_ko": "출현: SP//dr를 내 손에 추가합니다. 이 카드가 합체하면 다음 턴에 에너지를 +1 획득합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "PeniParker"
+  },
+  "파스토스": {
+    "effect_ko": "출현: 내 덱에 있는 각 카드의 비용을 -1 감소시키거나, 혹은 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 4,
+    "slug": "Phastos"
+  },
+  "피닉스포스": {
+    "effect_ko": "출현: 파괴된 내 카드 중 한 장을 부활시키고 그 카드와 합체합니다. 합체한 카드는 턴마다 이동할 수 있습니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 4,
+    "slug": "ThePhoenixForce"
+  },
+  "픽시": {
+    "effect_ko": "출현: 내 덱의 모든 카드의 기본 비용을 뒤섞습니다. (다른 방식으로 추가된 카드 제외)",
+    "cost": 2,
+    "power": 2,
+    "series": 4,
+    "slug": "Pixie"
+  },
+  "폴라리스": {
+    "effect_ko": "출현: 기본 비용이 1 또는 2인 상대 카드 한 장을 상대의 이 구역으로 이동합니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 3,
+    "slug": "Polaris"
+  },
+  "프로페서X": {
+    "effect_ko": "지속: 오직 이동 효과로만 이곳에 카드를 추가하거나 제거할 수 있습니다.",
+    "cost": 5,
+    "power": 2,
+    "series": 1,
+    "slug": "ProfessorX"
+  },
+  "프록시마미드나이트": {
+    "effect_ko": "이 카드를 버리면 내 파워가 가장 낮은 구역으로 배치됩니다. (가득 차지 않은 구역)",
+    "cost": 4,
+    "power": 7,
+    "series": 5,
+    "slug": "ProximaMidnight"
+  },
+  "사일록": {
+    "effect_ko": "출현: 다음 턴에 에너지를 +1 획득합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "Psylocke"
+  },
+  "퍼니셔": {
+    "effect_ko": "지속: 이곳에 있는 상대 카드 한 장당 +1 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 1,
+    "slug": "Punisher"
+  },
+  "퀘이크": {
+    "effect_ko": "출현: 다른 두 구역의 위치를 교체합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 3,
+    "slug": "Quake"
+  },
+  "퀵실버": {
+    "effect_ko": "첫 턴에 무조건 손에 들어옵니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "Quicksilver"
+  },
+  "퀸젯": {
+    "effect_ko": "지속: 내 생성된 카드들의 비용이 1 감소합니다. (최소 1)",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "Quinjet"
+  },
+  "라보나렌슬레이어": {
+    "effect_ko": "지속: 내 카드 중 파워가 1 이하인 카드들의 비용이 1 감소합니다. (최소 1)",
+    "cost": 2,
+    "power": 2,
+    "series": 4,
+    "slug": "RavonnaRenslayer"
+  },
+  "레드가디언": {
+    "effect_ko": "출현: 이곳에 배치된 파워가 가장 낮은 상대 카드에 -2 파워를 부여하고 텍스트를 제거합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 5,
+    "slug": "RedGuardian"
+  },
+  "레드헐크": {
+    "effect_ko": "턴 종료: 상대의 미사용 에너지가 있으면, +3 파워를 부여합니다. (내 손에 있거나 낸 카드 대상)",
+    "cost": 6,
+    "power": 10,
+    "series": 5,
+    "slug": "RedHulk"
+  },
+  "레드스컬": {
+    "effect_ko": "지속: 이곳에 있는 상대 카드들에 +2 파워를 부여합니다.",
+    "cost": 5,
+    "power": 14,
+    "series": 3,
+    "slug": "RedSkull"
+  },
+  "레드윙": {
+    "effect_ko": "이 카드는 처음 이동할 때, 내 손에서 카드 한 장을 기존 구역에 추가합니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 5,
+    "slug": "Redwing"
+  },
+  "레스큐": {
+    "effect_ko": "출현: 다음 턴에 내가 이 구역에 카드를 낼 경우, +5 파워를 부여합니다.",
+    "cost": 4,
+    "power": 4,
+    "series": 3,
+    "slug": "Rescue"
+  },
+  "라이노": {
+    "effect_ko": "출현: 이 구역을 붕괴시킵니다. (능력 제거)",
+    "cost": 3,
+    "power": 6,
+    "series": 2,
+    "slug": "Rhino"
+  },
+  "로켓과그루트": {
+    "effect_ko": "이 카드는 한 번 이동할 수 있습니다. 상대가 이곳에 카드를 낼 때마다 1 파워를 훔칩니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 5,
+    "slug": "RocketAndGroot"
+  },
+  "로켓라쿤": {
+    "effect_ko": "출현: 이번 턴에 상대가 이곳에 카드를 냈을 경우, 이 카드에 +4 파워를 부여합니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 1,
+    "slug": "RocketRaccoon"
+  },
+  "록슬라이드": {
+    "effect_ko": "출현: 상대의 덱에 바위를 2장 섞어 넣습니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 3,
+    "slug": "Rockslide"
+  },
+  "로그": {
+    "effect_ko": "출현: 이곳에 있는 상대의 지속 카드 한 장의 텍스트를 훔쳐 옵니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 3,
+    "slug": "Rogue"
+  },
+  "집행관로난": {
+    "effect_ko": "지속: 상대의 손에 있는 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 5,
+    "power": 5,
+    "series": 3,
+    "slug": "Ronan"
+  },
+  "세이버투스": {
+    "effect_ko": "이 카드가 파괴되면 내 손으로 돌아오며, 비용이 0(으)로 됩니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 2,
+    "slug": "Sabretooth"
+  },
+  "세이지": {
+    "effect_ko": "출현: 이곳에 있는 파워가 서로 다른 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 0,
+    "series": 5,
+    "slug": "Sage"
+  },
+  "샘윌슨캡틴아메리카": {
+    "effect_ko": "게임 시작: 캡틴의 방패를 무작위 구역에 추가합니다. 지속: 캡틴의 방패를 이동시킬 수 있습니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 5,
+    "slug": "SamWilson"
+  },
+  "샌드맨": {
+    "effect_ko": "출현: 다음 턴에 카드들의 비용이 1 증가합니다. (최대 6)",
+    "cost": 5,
+    "power": 8,
+    "series": 2,
+    "slug": "Sandman"
+  },
+  "사스콰치": {
+    "effect_ko": "내가 지난 턴에 낸 카드 한 장당 비용이 1 감소합니다.",
+    "cost": 6,
+    "power": 10,
+    "series": 4,
+    "slug": "Sasquatch"
+  },
+  "사우론": {
+    "effect_ko": "출현: 내 손과 덱에 있는 지속 카드들의 능력을 모두 제거합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "Sauron"
+  },
+  "스칼렛스파이더": {
+    "effect_ko": "활성화: 이 카드를 그대로 복사하여 다른 구역에 추가합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 5,
+    "slug": "ScarletSpider"
+  },
+  "스칼렛위치": {
+    "effect_ko": "출현: 이 구역을 새로운 구역으로 대체합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "ScarletWitch"
+  },
+  "스콘": {
+    "effect_ko": "이 카드를 버릴 때 내 손으로 회수하고, 이 카드와 임의의 구역에 공개되어 있는 내 카드 중 한 장에 +2 파워를 부여합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 5,
+    "slug": "Scorn"
+  },
+  "스콜피온": {
+    "effect_ko": "출현: 상대의 손에 있는 모든 카드에 -1 파워를 부여합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 2,
+    "slug": "Scorpion"
+  },
+  "스크림": {
+    "effect_ko": "상대 카드가 이동하면 그 카드의 파워를 2 훔칩니다. (턴당 1번)",
+    "cost": 2,
+    "power": 1,
+    "series": 5,
+    "slug": "Scream"
+  },
+  "세바스찬쇼": {
+    "effect_ko": "이 카드가 영구적으로 파워를 얻을 때마다, +2 파워를 추가로 얻습니다. (위치 불문)",
+    "cost": 3,
+    "power": 4,
+    "series": 4,
+    "slug": "SebastianShaw"
+  },
+  "셀레네": {
+    "effect_ko": "출현: 각 플레이어의 손에서 파워가 가장 낮은 카드에 -3 파워를 부여합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "Selene"
+  },
+  "센티널": {
+    "effect_ko": "출현: 또 다른 센티널 한 장을 내 손에 추가합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Sentinel"
+  },
+  "센트리": {
+    "effect_ko": "이 카드는 오른쪽 구역에 낼 수 없습니다. 출현: 오른쪽 구역에 파워 -9의 보이드 한 장을 추가합니다.",
+    "cost": 4,
+    "power": 9,
+    "series": 3,
+    "slug": "Sentry"
+  },
+  "세라": {
+    "effect_ko": "지속: 내 손에 있는 모든 카드의 비용이 1 감소합니다. (최소 1)",
+    "cost": 5,
+    "power": 5,
+    "series": 3,
+    "slug": "Sera"
+  },
+  "세르시": {
+    "effect_ko": "출현: 이곳에 있는 내 다른 카드를 기본 비용이 1 더 높은 무작위 카드로 바꿉니다. (가능한 경우)",
+    "cost": 5,
+    "power": 7,
+    "series": 5,
+    "slug": "Sersi"
+  },
+  "섀도우킹": {
+    "effect_ko": "출현: 이곳에 있는 모든 카드의 파워를 초기 파워로 되돌립니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 3,
+    "slug": "ShadowKing"
+  },
+  "샹치": {
+    "effect_ko": "출현: 이곳에서 10 이상의 파워를 지닌 상대 카드를 모두 파괴합니다.",
+    "cost": 4,
+    "power": 3,
+    "series": 2,
+    "slug": "ShangChi"
+  },
+  "샤나": {
+    "effect_ko": "출현: 각 구역에 기본 비용이 1인 임의의 카드 한 장을 추가합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 3,
+    "slug": "Shanna"
+  },
+  "쉬헐크": {
+    "effect_ko": "지난 턴에 소비하지 않은 에너지당 비용이 1 감소합니다.",
+    "cost": 6,
+    "power": 10,
+    "series": 3,
+    "slug": "SheHulk"
+  },
+  "쇼커": {
+    "effect_ko": "\"너를 날려 버리겠다!\"",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Shocker"
+  },
+  "슈리": {
+    "effect_ko": "출현: 이 구역에 내 다음 카드를 내면, 해당 카드의 파워가 두 배로 증가합니다.",
+    "cost": 4,
+    "power": 3,
+    "series": 3,
+    "slug": "Shuri"
+  },
+  "실크": {
+    "effect_ko": "누구든 이곳에 카드를 내면, 이 카드는 다른 구역 중 한 곳으로 이동합니다.",
+    "cost": 2,
+    "power": 5,
+    "series": 3,
+    "slug": "Silk"
+  },
+  "실버세이블": {
+    "effect_ko": "출현: 상대의 덱에서 가장 위쪽에 있는 카드의 파워를 2 훔칩니다.",
+    "cost": 1,
+    "power": 0,
+    "series": 5,
+    "slug": "SilverSable"
+  },
+  "실버사무라이": {
+    "effect_ko": "출현: 각 플레이어는 자신의 손에서 파워가 가장 낮은 카드를 버립니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 3,
+    "slug": "SilverSamurai"
+  },
+  "실버서퍼": {
+    "effect_ko": "출현: 기본 비용이 3인 내 다른 모든 카드에 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 5,
+    "slug": "SilverSurfer"
+  },
+  "스카": {
+    "effect_ko": "임의의 구역에 공개된 파워가 10 이상인 내 카드 한 장당 비용이 2 감소합니다.",
+    "cost": 7,
+    "power": 12,
+    "series": 4,
+    "slug": "Skaar"
+  },
+  "스노우가드": {
+    "effect_ko": "출현: 매 및 곰 오로라를 내 손에 추가합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "Snowguard"
+  },
+  "스펙트럼": {
+    "effect_ko": "출현: 배치된 내 지속 카드들에 +2 파워를 부여합니다.",
+    "cost": 6,
+    "power": 7,
+    "series": 1,
+    "slug": "Spectrum"
+  },
+  "스피드": {
+    "effect_ko": "지속: 내 모든 에너지를 소모한 턴당 +1 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 5,
+    "slug": "Speed"
+  },
+  "스파이더햄": {
+    "effect_ko": "출현: 상대의 손에서 가장 왼쪽에 있는 카드를 파워와 비용은 유지한 채 돼지 카드로 바꿉니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 3,
+    "slug": "SpiderHam"
+  },
+  "스파이더맨": {
+    "effect_ko": "출현: 다른 구역 중 한 곳으로 이동한 후, 출현한 구역에 있는 상대의 무작위 카드 한 장을 이동한 구역으로 끌어당깁니다.",
+    "cost": 2,
+    "power": 4,
+    "series": 3,
+    "slug": "SpiderMan"
+  },
+  "스파이더맨2099": {
+    "effect_ko": "이 카드가 어느 구역으로든 처음 이동할 때, 그 구역에 있는 무작위 상대 카드 한 장을 파괴합니다.",
+    "cost": 5,
+    "power": 9,
+    "series": 3,
+    "slug": "SpiderMan2099"
+  },
+  "스파이더우먼": {
+    "effect_ko": "출현: 이곳에 배치된 모든 상대 카드에 -1 파워를 부여합니다.",
+    "cost": 5,
+    "power": 8,
+    "series": 1,
+    "slug": "SpiderWoman"
+  },
+  "스쿼럴걸": {
+    "effect_ko": "출현: 내 다른 두 구역에 파워 1의 스쿼럴을 한 장씩 추가합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "SquirrelGirl"
+  },
+  "스타로드": {
+    "effect_ko": "출현: 이번 턴에 상대가 이곳에 카드를 냈을 경우, 이 카드에 +4 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 1,
+    "slug": "Starlord"
+  },
+  "스타브랜드": {
+    "effect_ko": "지속: 상대의 나머지 두 구역에 +3 파워를 부여합니다.",
+    "cost": 3,
+    "power": 10,
+    "series": 5,
+    "slug": "Starbrand"
+  },
+  "스태처": {
+    "effect_ko": "이번 게임에서 상대가 카드를 버린 경우, 비용이 1이(가) 됩니다.",
+    "cost": 5,
+    "power": 7,
+    "series": 3,
+    "slug": "Stature"
+  },
+  "스테그론": {
+    "effect_ko": "출현: 이곳에 배치된 상대 카드 한 장을 오른쪽 구역으로 한 칸 이동시킵니다.",
+    "cost": 4,
+    "power": 7,
+    "series": 3,
+    "slug": "Stegron"
+  },
+  "스톰": {
+    "effect_ko": "출현: 이 구역을 침수시킵니다. 다음 턴은 이곳에 카드를 낼 수 있는 마지막 턴입니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 2,
+    "slug": "Storm"
+  },
+  "스트레인지슈프림": {
+    "effect_ko": "합체 시 +2 파워를 부여합니다. 턴 종료: 내 생성된 카드 한 장을 이 카드에 합체시킵니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 5,
+    "slug": "StrangeSupreme"
+  },
+  "스트롱가이": {
+    "effect_ko": "지속: 내 손에 있는 카드가 1장 이하일 경우, +6 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 1,
+    "slug": "StrongGuy"
+  },
+  "선스팟": {
+    "effect_ko": "턴 종료: 미사용 에너지당 +1 파워를 획득합니다.",
+    "cost": 1,
+    "power": 1,
+    "series": 2,
+    "slug": "Sunspot"
+  },
+  "슈퍼스크럴": {
+    "effect_ko": "지속: 상대 카드들의 모든 지속 능력을 획득합니다.",
+    "cost": 4,
+    "power": 2,
+    "series": 3,
+    "slug": "SuperSkrull"
+  },
+  "슈퍼자이언트": {
+    "effect_ko": "출현: 다음 턴에 낸 모든 카드가 게임이 끝날 때까지 공개되지 않습니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 4,
+    "slug": "Supergiant"
+  },
+  "수르트": {
+    "effect_ko": "10 이상의 파워를 지닌 카드를 낼 때마다 +2 파워를 획득합니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 5,
+    "slug": "Surtur"
+  },
+  "스웜": {
+    "effect_ko": "이 카드를 버리면 현재 비용이 0인 복사본 두 장을 내 손에 추가합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 2,
+    "slug": "Swarm"
+  },
+  "소드마스터": {
+    "effect_ko": "출현: 내 손에서 비용이 홀수인 카드 한 장을 버립니다.",
+    "cost": 3,
+    "power": 6,
+    "series": 1,
+    "slug": "SwordMaster"
+  },
+  "심비오트스파이더맨": {
+    "effect_ko": "활성화: 이곳의 내 비용이 가장 낮은 카드와 합체합니다. 해당 카드의 텍스트를 복제하여 발동시킵니다.",
+    "cost": 4,
+    "power": 7,
+    "series": 5,
+    "slug": "SymbioteSpiderMan"
+  },
+  "태스크마스터": {
+    "effect_ko": "출현: 이 카드의 파워를 자신이 마지막으로 낸 카드의 파워와 동일하게 설정합니다. (가능한 경우)",
+    "cost": 6,
+    "power": 0,
+    "series": 3,
+    "slug": "Taskmaster"
+  },
+  "새디어스로스": {
+    "effect_ko": "턴 종료: 상대의 미사용 에너지가 있으면, 10 이상의 파워를 가진 카드를 한 장 뽑습니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 5,
+    "slug": "ThaddeusRoss"
+  },
+  "타노스": {
+    "effect_ko": "게임 시작: 타노스를 뽑고 인피니티 스톤 여섯 장을 내 덱에 섞어 넣습니다.",
+    "cost": 6,
+    "power": 12,
+    "series": 5,
+    "slug": "Thanos"
+  },
+  "콜렉터": {
+    "effect_ko": "임의의 출처(내 덱은 제외)로부터 카드 한 장이 내 손에 들어올 때마다 +1 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 2,
+    "slug": "TheCollector"
+  },
+  "1대고스트라이더": {
+    "effect_ko": "출현: 내 손에서 파워가 가장 낮은 카드를 버립니다. 버려진 카드의 파워만큼 이 카드의 파워를 제거합니다.",
+    "cost": 2,
+    "power": 6,
+    "series": 4,
+    "slug": "GhostTheFirstRider"
+  },
+  "후드": {
+    "effect_ko": "출현: 데몬 한 장을 내 손에 추가합니다.",
+    "cost": 1,
+    "power": -3,
+    "series": 3,
+    "slug": "Hood"
+  },
+  "인피너트": {
+    "effect_ko": "지난 턴에 카드를 냈을 경우, 이 카드를 낼 수 없습니다.",
+    "cost": 6,
+    "power": 20,
+    "series": 2,
+    "slug": "Infinaut"
+  },
+  "리빙트리뷰널": {
+    "effect_ko": "지속: 내 전체 파워를 구역별로 균등하게 분배합니다.",
+    "cost": 6,
+    "power": 9,
+    "series": 4,
+    "slug": "LivingTribunal"
+  },
+  "더씽": {
+    "effect_ko": "“때려눕힐 시간이다!”",
+    "cost": 4,
+    "power": 6,
+    "series": 1,
+    "slug": "TheThing"
+  },
+  "테나": {
+    "effect_ko": "턴 종료: 내가 정확히 카드 2장을 냈다면 +3 파워를 부여합니다.",
+    "cost": 2,
+    "power": 0,
+    "series": 5,
+    "slug": "Thena"
+  },
+  "토르": {
+    "effect_ko": "출현: 내 덱에 묠니르를 한 장 섞어 넣습니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 3,
+    "slug": "Thor"
+  },
+  "타이타니아": {
+    "effect_ko": "누구든 이곳에 카드를 내면, 이 카드가 진영을 변경합니다.",
+    "cost": 1,
+    "power": 5,
+    "series": 3,
+    "slug": "Titania"
+  },
+  "톡신": {
+    "effect_ko": "출현: 이곳에 배치된 내 다른 카드들을 내 손으로 회수합니다. 회수한 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 5,
+    "slug": "Toxin"
+  },
+  "타이포이드메리": {
+    "effect_ko": "지속: 이곳의 내 다른 모든 카드에 -2 파워를 부여합니다.",
+    "cost": 4,
+    "power": 10,
+    "series": 3,
+    "slug": "TyphoidMary"
+  },
+  "US에이전트": {
+    "effect_ko": "지속: 이곳에 있는 기본 비용이 4, 5, 6인 카드들에 -3 파워를 부여합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "USAgent"
+  },
+  "주시자우아투": {
+    "effect_ko": "게임 시작: 공개되지 않은 구역을 볼 수 있습니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "Uatu"
+  },
+  "울트론": {
+    "effect_ko": "출현: 2 파워의 드론을 내 다른 구역에 4장 추가합니다.",
+    "cost": 6,
+    "power": 8,
+    "series": 3,
+    "slug": "Ultron"
+  },
+  "벤삼촌": {
+    "effect_ko": "이 카드가 파괴되면 스파이더맨으로 교체합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 4,
+    "slug": "UncleBen"
+  },
+  "발렌티나": {
+    "effect_ko": "출현: 내 손에 기본 비용이 6인 카드 한 장을 무작위로 추가합니다. 그 카드의 비용이 -2, 파워가 -2 감소합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 4,
+    "slug": "Valentina"
+  },
+  "발키리": {
+    "effect_ko": "출현: 이곳에 있는 모든 카드의 파워를 3(으)로 설정합니다.",
+    "cost": 5,
+    "power": 3,
+    "series": 3,
+    "slug": "Valkyrie"
+  },
+  "베놈": {
+    "effect_ko": "출현: 이곳의 내 다른 카드들을 모두 파괴하고, 그 파워를 이 카드에 추가합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 3,
+    "slug": "Venom"
+  },
+  "빅토리아핸드": {
+    "effect_ko": "지속: 내 손에서 생성된 내 카드에 한하여 +2 파워를 부여합니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 5,
+    "slug": "VictoriaHand"
+  },
+  "바이퍼": {
+    "effect_ko": "출현: 이곳의 내 다른 카드 중, 파워가 가장 낮은 카드 한 장이 진영을 변경합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 3,
+    "slug": "Viper"
+  },
+  "비전": {
+    "effect_ko": "이 카드는 매 턴마다 다른 구역으로 이동할 수 있습니다.",
+    "cost": 5,
+    "power": 8,
+    "series": 2,
+    "slug": "Vision"
+  },
+  "벌처": {
+    "effect_ko": "이 카드는 구역을 이동할 때마다 +6 파워를 부여합니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 2,
+    "slug": "Vulture"
+  },
+  "워머신": {
+    "effect_ko": "지속: 어디든 카드를 낼 수 있으며 어떤 효과로도 막을 수 없습니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 5,
+    "slug": "WarMachine"
+  },
+  "워패스": {
+    "effect_ko": "지속: 내 카드가 배치되지 않은 구역이 있을 경우, 이 카드에 +5 파워를 부여합니다.",
+    "cost": 4,
+    "power": 5,
+    "series": 2,
+    "slug": "Warpath"
+  },
+  "와스프": {
+    "effect_ko": "\"내 비밀스러운 힘은 문제를 해결하는 거야\"",
+    "cost": 0,
+    "power": 1,
+    "series": 3,
+    "slug": "Wasp"
+  },
+  "웨이브": {
+    "effect_ko": "출현: 다음 턴이 끝날 때까지 모든 카드의 비용이 최대 4이(가) 됩니다.",
+    "cost": 3,
+    "power": 5,
+    "series": 3,
+    "slug": "Wave"
+  },
+  "웨어울프바이나이트": {
+    "effect_ko": "내가 카드를 냈을 때, 해당 카드에 출현 능력이 있다면 그 구역으로 이동하고 +2 파워를 얻습니다.",
+    "cost": 3,
+    "power": 3,
+    "series": 4,
+    "slug": "WerewolfByNight"
+  },
+  "화이트퀸": {
+    "effect_ko": "출현: 상대의 손에 있는 현재 비용이 가장 높은 카드를 내 손에 복제합니다.",
+    "cost": 3,
+    "power": 4,
+    "series": 1,
+    "slug": "WhiteQueen"
+  },
+  "화이트타이거": {
+    "effect_ko": "출현: 나의 다른 구역 중 한 곳에 파워 8의 호랑이를 한 장 추가합니다.",
+    "cost": 5,
+    "power": 1,
+    "series": 1,
+    "slug": "WhiteTiger"
+  },
+  "화이트위도우": {
+    "effect_ko": "출현: 이 구역의 상대 진영에 위도우즈 키스를 한 장을 추가합니다.",
+    "cost": 2,
+    "power": 2,
+    "series": 5,
+    "slug": "WhiteWidow"
+  },
+  "위칸": {
+    "effect_ko": "출현: 이전 턴까지 에너지를 모두 소모했다면 +2의 최대 에너지를 얻습니다.",
+    "cost": 4,
+    "power": 6,
+    "series": 5,
+    "slug": "Wiccan"
+  },
+  "울프스베인": {
+    "effect_ko": "출현: 이곳에 배치된 내 다른 카드 한 장당 +2 파워를 부여합니다.",
+    "cost": 3,
+    "power": 1,
+    "series": 1,
+    "slug": "Wolfsbane"
+  },
+  "울버린": {
+    "effect_ko": "이 카드가 버려지거나 파괴되면 +2 파워를 지닌 채 임의의 구역에 재생성됩니다.",
+    "cost": 2,
+    "power": 3,
+    "series": 1,
+    "slug": "Wolverine"
+  },
+  "웡": {
+    "effect_ko": "지속: 이곳에서 내 카드의 출현 능력이 두 번 발동합니다.",
+    "cost": 4,
+    "power": 2,
+    "series": 3,
+    "slug": "Wong"
+  },
+  "X-23": {
+    "effect_ko": "이 카드가 버려지거나 파괴되면, 임의의 구역에 재생성되고 다음 턴에 +1 에너지를 획득합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 4,
+    "slug": "X23"
+  },
+  "옐로재킷": {
+    "effect_ko": "출현: 이곳에 배치된 내 다른 카드들에 -1 파워를 부여합니다.",
+    "cost": 0,
+    "power": 2,
+    "series": 3,
+    "slug": "Yellowjacket"
+  },
+  "욘두": {
+    "effect_ko": "출현: 상대의 덱에서 현재 비용이 가장 낮은 카드를 제외합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 1,
+    "slug": "Yondu"
+  },
+  "자부": {
+    "effect_ko": "출현: 내 덱에 있는 기본 비용이 4인 각 카드의 비용이 -1 감소합니다.",
+    "cost": 1,
+    "power": 2,
+    "series": 3,
+    "slug": "Zabu"
+  },
+  "제로": {
+    "effect_ko": "출현: 내가 다음 번에 내는 카드의 능력을 제거합니다.",
+    "cost": 1,
+    "power": 3,
+    "series": 3,
+    "slug": "Zero"
+  }
+}
