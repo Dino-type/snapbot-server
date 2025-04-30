@@ -85,6 +85,10 @@ async def search_card(req: CardRequest):
 def get_all_cards():
     return load_cards()
 
+@app.get("/")
+def read_root():
+    return {"message": "Snapbot 서버 작동 중"}
+
 # 카드 등록 API
 @app.post("/add_card")
 async def add_card(req: CardRegisterRequest):
