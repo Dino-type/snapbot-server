@@ -81,6 +81,10 @@ async def search_card(req: CardRequest):
         "message": "검색 결과가 없습니다."
     }
 
+@app.get("/card")
+def get_all_cards():
+    return load_cards()
+
 # 카드 등록 API
 @app.post("/add_card")
 async def add_card(req: CardRegisterRequest):
