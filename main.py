@@ -3,6 +3,7 @@ from pydantic import BaseModel
 import json
 import difflib
 import os
+import subprocess
 
 app = FastAPI()
 
@@ -147,3 +148,23 @@ async def delete_card(req: CardDeleteRequest):
     save_cards(card_data)
 
     return {"result": "success", "message": f"{req.name} 카드 삭제 완료"}
+
+@app.post("/git_commit")
+def manual_git_commit():
+    try:
+        subprocess.run(["git", "add", "cards.json"], check=True)
+
+        status = subprocess.run(
+            ["git", "status", "--porcelain"],
+            stdout=subprocess.PIPE,
+            check=True
+        )
+        if not status.stdout.strip():
+            return {"message": "변경된 내용이 없습니다. 커밋 생략됨."}
+
+        subprocess.run(["git", "commit", "-m", "카드 데이터 수동 반영"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        return {"message": "✅ cards.json이 GitHub에 반영되었습니다."}
+
+    except subprocess.CalledProcessError as e:
+        return {"message": f"Git 오류: {str(e)}"}

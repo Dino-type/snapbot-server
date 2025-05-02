@@ -2371,5 +2371,33 @@
     "power": 3,
     "series": 3,
     "slug": "Zero"
+  },
+  "하이드라 스톰퍼": {
+    "effect_ko": "지속: 이번 게임에서 내 카드가 이동할 때마다 이 카드에 +1 파워를 부여합니다.",
+    "cost": 3,
+    "power": 2,
+    "series": 5,
+    "slug": "HydraStomper"
+  },
+  "배트록더리퍼": {
+    "effect_ko": "임의의 카드가 이동하면 그 카드를 따라 이동하고 +2 파워를 획득합니다. (턴당 1번)",
+    "cost": 1,
+    "power": 2,
+    "series": 4,
+    "slug": "Batroc"
+  },
+  "토파즈": {
+    "effect_ko": "내가 이곳에 카드를 내면 그 카드를 중앙 구역으로 이동시킵니다. ",
+    "cost": 3,
+    "power": 4,
+    "series": 4,
+    "slug": "Topaz"
+  },
+  "판페이": {
+    "effect_ko": "활성화: 이곳의 내 다른 카드를 모두 오른쪽으로 이동시킵니다.",
+    "cost": 4,
+    "power": 7,
+    "series": 4,
+    "slug": "FanFei"
   }
 }
