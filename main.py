@@ -157,25 +157,3 @@ def download_json():
         return FileResponse(path=json_path, filename="cards.json", media_type="application/json")
     else:
         return {"message": "cards.json 파일이 존재하지 않습니다."}
-
-@app.post("/git_commit")
-async def manual_git_commit(req: Request):
-    await req.body()  # 바디가 없어도 에러 안 나게 수신 (사용 안 해도 호출만으로 처리됨)
-
-    try:
-        subprocess.run(["git", "add", "cards.json"], check=True)
-
-        status = subprocess.run(
-            ["git", "status", "--porcelain"],
-            stdout=subprocess.PIPE,
-            check=True
-        )
-        if not status.stdout.strip():
-            return {"message": "변경된 내용이 없습니다. 커밋 생략됨."}
-
-        subprocess.run(["git", "commit", "-m", "카드 데이터 수동 반영"], check=True)
-        subprocess.run(["git", "push"], check=True)
-        return {"message": "✅ cards.json이 GitHub에 반영되었습니다."}
-
-    except subprocess.CalledProcessError as e:
-        return {"message": f"Git 오류: {str(e)}"}
