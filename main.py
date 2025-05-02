@@ -1,5 +1,6 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
+from fastapi.responses import FileResponse
 import json
 import difflib
 import os
@@ -149,8 +150,18 @@ async def delete_card(req: CardDeleteRequest):
 
     return {"result": "success", "message": f"{req.name} 카드 삭제 완료"}
 
+@app.get("/download_json")
+def download_json():
+    json_path = os.path.join(os.getcwd(), "cards.json")
+    if os.path.exists(json_path):
+        return FileResponse(path=json_path, filename="cards.json", media_type="application/json")
+    else:
+        return {"message": "cards.json 파일이 존재하지 않습니다."}
+
 @app.post("/git_commit")
-def manual_git_commit():
+async def manual_git_commit(req: Request):
+    await req.body()  # 바디가 없어도 에러 안 나게 수신 (사용 안 해도 호출만으로 처리됨)
+
     try:
         subprocess.run(["git", "add", "cards.json"], check=True)
 
