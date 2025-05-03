@@ -140,7 +140,7 @@ async def edit_card(req: CardUpdateRequest):
 async def delete_card(req: CardDeleteRequest):
     card_data = load_cards()
 
-    name = req.name.replace(" ", "").lower()
+    name = req.name.strip()
 
     if name not in card_data:
         raise HTTPException(status_code=404, detail="해당 카드명을 찾을 수 없습니다.")
